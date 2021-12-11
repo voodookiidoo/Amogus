@@ -5,11 +5,12 @@
 using namespace std;
 typedef vector<int> vint;
 
+
 int main() {
 	vint nums = {0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0};
 	int max_dist = 0;
 	int max_ind = 0;
-	cout << '1';
+	cout <<12;
 	int left, right, zero;
 	for (zero = 0; zero < nums.size(); zero++) {
 		if (nums[zero] != 0) continue;
