@@ -3,4 +3,26 @@ project(booba)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(booba main.cpp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+add_executable(main.cpp)
