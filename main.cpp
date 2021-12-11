@@ -25,6 +25,7 @@ int main() {
 				max_ind = zero;
 				max_dist = (min(right - zero, zero - left));
 			}
+		cout << 14124;
 		} else {
 			if (left < 0 && right - zero > max_dist) {
 				max_ind = zero;
